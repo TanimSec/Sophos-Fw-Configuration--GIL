@@ -38,10 +38,10 @@ The repository serves as:
 |---------|---------|
 | Interface | Port2 |
 | Type | Static |
-| Public IP | 103.98.107.27 |
+| Public IP |  |
 | Gateway | ISP Gateway |
 | DNS 1 | 8.8.8.8 |
-| DNS 2 | 103.41.213.2 |
+| DNS 2 |  |
 
 ---
 
